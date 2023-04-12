@@ -4,3 +4,5 @@ Description: Electrocardiogram (ECG) is a non-invasive medical test that measure
       1. Utilize a number of analog and digital filters, 
       2. Determine the differences of the two filter types,
       3. Discover the most effective filter for denoising ECG signals.
+
+Video Presentation Link: https://youtu.be/FykDGzkptgg
